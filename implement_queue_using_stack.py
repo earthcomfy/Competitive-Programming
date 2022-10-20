@@ -1,5 +1,5 @@
 """
-Implement queue using stack: https://leetcode.com/problems/implement-queue-using-stacks/submissions/
+Implement queue using stack: https://leetcode.com/problems/implement-queue-using-stacks/
 """
 class MyQueue:
 
