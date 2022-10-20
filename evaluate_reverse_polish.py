@@ -1,5 +1,5 @@
 """
-Reverse Polish: https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/
+Reverse Polish: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 """
 class Solution:
     def evaluate(self, x: int, y: int, operator: str) -> int:
